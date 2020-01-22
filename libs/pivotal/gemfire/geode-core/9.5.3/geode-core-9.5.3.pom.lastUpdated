@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 23 01:20:11 IST 2020
+https\://commercial-repo.pivotal.io/data3/gemfire-release-repo/gemfire/.lastUpdated=1579722611502
+https\://repo.maven.apache.org/maven2/.lastUpdated=1579720444528
+@default-gemfire-release-repo-https\://commercial-repo.pivotal.io/data3/gemfire-release-repo/gemfire/.lastUpdated=1579722433255
+https\://repo.maven.apache.org/maven2/.error=
