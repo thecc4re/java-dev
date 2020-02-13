@@ -1,0 +1,12 @@
+https://account.run.pivotal.io/z/uaa/forgot-password
+https://geode.apache.org/docs/guide/111/basic_config/data_regions/managing_data_regions.html
+http://localhost:7070/pulse/dataBrowser.html
+https://geode.apache.org/docs/guide/12/topologies_and_comm/topology_concepts/member_communication.html
+https://docs.spring.io/spring-data-gemfire/docs/current/reference/html/#preface
+https://docs.spring.io/spring-data/geode/docs/current/reference/html/#reference
+https://docs.spring.io/autorepo/docs/spring-boot-data-geode-build/current/reference/htmlsingle/#geode-autoconfiguration-annotations-explicit
+https://docs.spring.io/spring-data/geode/docs/current/reference/html/#introduction
+https://docs.spring.io/autorepo/docs/spring-boot-data-geode-build/current/reference/htmlsingle/
+https://stackoverflow.com/questions/50231736/applicationcontextexception-unable-to-start-servletwebserverapplicationcontext/50232382
+http://localhost:7070/pulse/dataBrowser.html
+https://github.com/thecc4re/java-dev
