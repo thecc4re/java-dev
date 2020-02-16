@@ -1,2 +1,0 @@
-# java-dev
-java libs
